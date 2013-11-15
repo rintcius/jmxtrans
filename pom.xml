@@ -17,9 +17,9 @@
 	<url>http://www.jmxtrans.org</url>
 
 	<scm>
-		<connection>scm:git:git@github.com:jmxtrans/jmxtrans.git</connection>
-		<developerConnection>scm:git:git@github.com:jmxtrans/jmxtrans.git</developerConnection>
-		<url>https://github.com/jmxtrans/jmxtrans</url>
+		<connection>scm:git:git@github.com:TravelSupermarket/jmxtrans.git</connection>
+		<developerConnection>scm:git:git@github.com:TravelSupermarket/jmxtrans.git</developerConnection>
+		<url>https://github.com/TravelSupermarket/jmxtrans</url>
 		<tag>HEAD</tag>
 	</scm>
 
