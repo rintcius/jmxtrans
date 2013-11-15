@@ -9,7 +9,7 @@
 
 	<groupId>com.msm.org.jmxtrans.jmxtrans</groupId>
 	<artifactId>jmxtrans</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>jar</packaging>
 	<name>jmxtrans</name>
 	<description>JMX metrics exporter</description>
@@ -20,7 +20,7 @@
 		<connection>scm:git:git@github.com:TravelSupermarket/jmxtrans.git</connection>
 		<developerConnection>scm:git:git@github.com:TravelSupermarket/jmxtrans.git</developerConnection>
 		<url>https://github.com/TravelSupermarket/jmxtrans</url>
-		<tag>HEAD</tag>
+		<tag>msm-jmxtrans-1.0.0</tag>
 	</scm>
 
 	<properties>
